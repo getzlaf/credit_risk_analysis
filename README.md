@@ -8,4 +8,4 @@ This analysis is based on loan data to predict if a loan would be considered hig
 
 As you can see below, here are the results of each machine learning models we did. We evaluated them on their accuracy, precision and recall. 
 
-![]()
+![](table.png)
